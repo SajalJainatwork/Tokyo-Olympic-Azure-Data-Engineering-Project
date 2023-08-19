@@ -1,2 +1,8 @@
-# tokyo-olympic-azure-data-engineering-project
+# Tokyo-Olympic-Azure-Data-Engineering-Project
 tokyo-olympic-azure-data-engineering-project on Azure including Azure Data Factory, Data Lake Gen 2, Synapse Analytics, and Azure Databricks.
+
+✅ Extract Data from APIs
+✅ Learn Azure Services DataBricks, DataFactory, and Synapse Analytics
+✅ Writing Spark Code
+✅ SQL queries for analysis
+
