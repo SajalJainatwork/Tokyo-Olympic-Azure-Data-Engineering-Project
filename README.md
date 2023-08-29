@@ -2,7 +2,9 @@
 Tokyo-Olympic-Data-Analysis-Azure-Data-Engineering-Project on Azure including Azure Data Factory, Data Lake Gen 2, Synapse Analytics, and Azure Databricks.
 
 Data set: Tokyo Olympic Data Analysis
+
 Source: Kaggle
+
 Cloud: Azure Services
 
 ✅ Data Architecture
