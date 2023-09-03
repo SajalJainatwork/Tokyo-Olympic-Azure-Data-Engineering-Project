@@ -7,25 +7,25 @@ Source: Kaggle
 
 Cloud: Azure Services
 
-✅ Data Architecture
+✳Data Architecture
 
-✅ Extract Data from APIs
+✳Extract Data from APIs
 
-✅ Learn Azure Services Data Bricks, Data Factory, and Synapse Analytics
+✳Learn Azure Services Data Bricks, Data Factory, and Synapse Analytics
 
-✅ Writing Spark Code
+✳Writing Spark Code
 
-✅ SQL queries for analysis
+✳SQL queries for analysis
 
-✅Data Ingestion via "AZURE DATA FACTORY"
+✳Data Ingestion via "AZURE DATA FACTORY"
 
-✅Data Transformation in "AZURE DATABRICKS"
+✳Data Transformation in "AZURE DATABRICKS"
 
-✅Data Analysis in "AZURE SYNAPSE ANALYTICS"
+✳Data Analysis in "AZURE SYNAPSE ANALYTICS"
 
-✅Creating a Dashboard in "POWER BI"
+✳Creating a Dashboard in "POWER BI"
 
-✅How to Link services
+✳How to Link services
 
 'AZURE DATA FACTORY ➡ AZURE DATA LAKE STORAGE GEN 2'
 
