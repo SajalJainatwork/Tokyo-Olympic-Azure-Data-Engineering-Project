@@ -1,4 +1,4 @@
-![tokyo](https://github.com/user-attachments/assets/97d21dd4-0d4e-4b2a-ac72-89e145811e99)
+<img width="1073" height="601" alt="to" src="https://github.com/user-attachments/assets/7a83b03f-8083-4514-aefb-fa5e1fd9b677" />
 
 # Tokyo-Olympic-Azure-Data-Engineering-Project
 Tokyo-Olympic-Data-Analysis-Azure-Data-Engineering-Project on Azure including Azure Data Factory, Data Lake Gen 2, Synapse Analytics, and Azure Databricks.
